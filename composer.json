@@ -1,0 +1,9 @@
+{
+    "require": {
+        "nezamy/route": "^1.2",
+        "illuminate/database": "^5.8",
+        "lcobucci/jwt": "^3.2",
+        "phpseclib/phpseclib": "^2.0",
+        "particle/validator": "^2.3"
+    }
+}
