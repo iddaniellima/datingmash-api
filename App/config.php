@@ -5,7 +5,7 @@ define('PROJECT_NAME', 'Datingmash');
 
 // CONFIGURAÇÕES MYSQL
 define('DB_USER', 'j4vYPCpEMz');
-define('DB_PASSWORD', 'O4Wp7Zqj54');
+define('DB_PASSWORD', 'O4Wp7Zqgit add *j54');
 define('DB_HOST', 'remotemysql.com');
 define('DB_NAME', 'j4vYPCpEMz');
 define('DB_PASSWORD','O4Wp7Zqj54');
